@@ -17,7 +17,7 @@ Ya deberías haber creado una cuenta en [GitHub](https://github.com/) y descarga
 Clona o haz un fork de este repositorio usando el botón "Fork" en la esquina superior derecha en la página o el botón de código para clonar.
 
 Normalmente se hace un fork
-Se crea una branch con un nombre descriptivo
+Se crea una branch con un nombre descriptivo.
 Se hacen los cambios mediante commits
 Se hace push a la branch
 Se hace un pull request al dueño original
@@ -31,7 +31,7 @@ En este momento, es solo una copia del [repositorio original](https://github.com
 
 En tu clon local del repositorio, abre (`README.md`) y modifica la siguiente línea cambiando "tu nombre completo"
 
-> Soy \[tu nombre completo\] y edité este archivo.
+> Soy Leonardo Yael Garcia Ramirez y edité este archivo.
 
 ## 4. Agregar y Confirmar Cambios (Commit)
 
